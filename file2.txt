@@ -3,3 +3,6 @@ Change 1-to test revert
 change 2-to fix the change 1
 
 change -made by team member from remote repository
+
+change 3-to fix bug2
+
